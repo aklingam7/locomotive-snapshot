@@ -1,0 +1,11 @@
+{
+    "appName_I": "Locomotive",
+    "appTagline_I": "أعد حياتك إلى المسار الصحيح!",
+    "settingsScreen_T": "إعدادات البرنامج",
+    "setLang_BL": "تغيير اللغة",
+    "setHrsPCoal_BL": "تغيير عدد الساعات لكل فحم",
+    "about_BL": "معلومات اكثر",
+    "deleteData_BL": "احذف جميع البيانات",
+    "ok_BL": "حسنا",
+    "createdOn_MS": "قمت بإنشاء حسابك في {DATE}"
+}

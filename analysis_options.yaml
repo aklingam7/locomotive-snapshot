@@ -1,0 +1,19 @@
+include: package:lint/analysis_options.yaml
+
+analyzer:
+  exclude:
+    - "**/*.g.dart"
+    - "**/*.mocks.dart"
+    - "lib/firebase_options.dart"
+    - "lib/generated_plugin_registrant.dart"
+
+linter:
+  rules:
+    prefer_double_quotes: true
+    sort_constructors_first: true
+    flutter_style_todos: true
+
+#The analyzer can be manually invoked from the command line by running `flutter analyze`.
+
+# Additional information about this file can be found at
+# https://dart.dev/guides/language/analysis-options

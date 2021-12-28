@@ -1,0 +1,62 @@
+{
+    "appName_I": "Locomotive",
+    "@appName_I": {
+      "description": "The name of the application"
+    },
+    "appTagline_I": "Get your life back on track!",
+    "@appTagline_I": {
+        "description": "The app's slogan/tagline"
+    },
+    "onboardingScreen_T": "Welcome to Locomotive:",
+    "@onboardingTitle": {
+        "description": "The title for the onboarding message"
+    },
+    "settingsScreen_T": "App Settings",
+    "signInWithGoogle_T": "Sign in with Google:",
+    "signInWithEmail_T": "Sign in with email:",
+    "signUpWithEmail_T": "Create account with email:",
+    "defaultError_T": "Unexpected Error:",
+    "@defaultError_T": {
+        "description": "The default title for error dialogs"
+    },
+    "noInternetError_T": "No Internet:",
+    "@noInternetError_T": {
+        "description": "The title for no-internet error dialogs"
+    },
+    "needVerificationError_T": "Email Verification Required:",
+    "userCreationError_T": "Authentication Error:",
+    "ok_BL": "OK",
+    "@ok_BL": {
+        "description": "The label for the OK action button"
+    },
+    "createAccount_BL": "Create account",
+    "signIn_BL": "Already have an account? Sign in",
+    "setLang_BL": "Set Language/Locale",
+    "setHrsPCoal_BL": "Set Hours per Coal",
+    "about_BL": "About",
+    "deleteData_BL": "Delete All Data",
+    "emailLabel_MS": "Email",
+    "passwordLabel_MS": "Password",
+    "passwordConfirmationLabel_MS": "Confirm Password",
+    "nameLabel_MS": "Name",
+    "createdOn_MS": "Created On: {DATE}",
+    "@createdOn_MS": {
+        "description": "The text for the created-on message",
+        "placeholders": {
+            "DATE": {
+                "example": "26/01/2016",
+                "description": "The date of the user's account creation"
+            }
+        }
+    },
+    "defaultErrorBody_ML": "An unexpected error occurred. Please try restarting the app. If the problem persists, please contact us.",
+    "@defaultErrorBody_ML": {
+        "description": "The default message for error dialogs"
+    },
+    "noInternetErrorBody_ML": "We can't connect to the internet. Please check your connection and try again.",
+    "@noInternetErrorBody_ML": {
+        "description": "The message for no-internet error dialogs"
+    },
+    "needVerificationErrorBody_ML": "Please check your email to verify your account.",
+    "userCreationErrorBody_ML": "An error occurred while trying to sign you in. Please try again. If you're using your email to sign in, ensure that you have entered a valid email and a strong password."
+}

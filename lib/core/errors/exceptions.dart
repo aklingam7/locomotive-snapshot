@@ -1,0 +1,1 @@
+class UserInterruptionException implements Exception {}
